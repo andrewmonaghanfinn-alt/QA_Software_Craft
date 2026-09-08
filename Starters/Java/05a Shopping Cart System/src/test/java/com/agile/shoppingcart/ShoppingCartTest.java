@@ -18,8 +18,8 @@ public class ShoppingCartTest {
     @Test
     public void addItem_singleItem_containsSingleItem() {
         //arrange
-        setUp();
-        Item apple = new Item("apple", 1.00, 1);
+
+        Item apple = ItemMother.apple();
         //act
         shoppingCart.addItem(apple);
         //assert
@@ -30,9 +30,9 @@ public class ShoppingCartTest {
      @Test
     public void addItem_multipleItem_containsMultipleItems() {
         //arrange
-        setUp();
-        Item apple = new Item("apple", 1.00, 1);
-        Item banana = new Item("banana", 0.50, 1);
+    
+        Item apple = ItemMother.apple();
+        Item banana = ItemMother.banana();
         //act
         shoppingCart.addItem(apple);
         shoppingCart.addItem(banana);
@@ -44,7 +44,7 @@ public class ShoppingCartTest {
     @Test
     public void removeItem_removeApple_containsBanana() {
         //arrange
-        setUp();
+
         Item apple = new Item("apple", 1.00, 1);
         Item banana = new Item("banana", 0.50, 1);
         shoppingCart.addItem(apple);
@@ -59,7 +59,7 @@ public class ShoppingCartTest {
     @Test
     public void removeItem_removeInvalidItem_cartUnchanged() {
         //arrange
-        setUp();
+
         Item apple = new Item("apple", 1.00, 1);
         Item banana = new Item("banana", 0.50, 1);
         shoppingCart.addItem(apple);
@@ -73,7 +73,7 @@ public class ShoppingCartTest {
     @Test
     public void calculateTotal_appleAndBanana_returnsTotal() {
         //arrange
-        setUp();
+
         Item apple = new Item("apple", 1.00, 1);
         Item banana = new Item("banana", 0.50, 1);
         shoppingCart.addItem(apple);
@@ -89,7 +89,7 @@ public class ShoppingCartTest {
     @Test
     public void calculateTotal_noItems_returnsTotal() {
         //arrange
-        setUp();
+
         double expected = 0.00;
         //act
         double actual = shoppingCart.calculateTotal();
@@ -101,7 +101,7 @@ public class ShoppingCartTest {
     @Test
     public void addItem_twoApples_updatesQuantity() {
         //arrange
-        setUp();
+
         Item apple = new Item("apple", 1.00, 1);
     
   
@@ -117,7 +117,7 @@ public class ShoppingCartTest {
     @Test
     public void setItemQuantity_setQuantityToThree_updatesQuantity() {
         //arrange
-        setUp();
+
         Item apple = new Item("apple", 1.00, 1);
         shoppingCart.addItem(apple);
   
@@ -133,7 +133,7 @@ public class ShoppingCartTest {
     @Test
     public void removeItem_removeFromEmptyCart_cartUnchanged() {
         //arrange
-        setUp();
+
         Item apple = new Item("apple", 1.00, 1);
         //act
         shoppingCart.removeItem(apple);
@@ -145,7 +145,7 @@ public class ShoppingCartTest {
     @Test
     public void calculateTotal_emptyCart_returnsZero() {
         //arrange
-        setUp();
+
         double expected = 0.00;
         //act
         double actual = shoppingCart.calculateTotal();
