@@ -1,0 +1,31 @@
+SOL M5.xlsx
+2025_QAA_LP&SoL_M5.docx
+# Maven build output
+target/
+
+# Compiled Java files
+*.class
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Java logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~

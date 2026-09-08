@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "ItMWQSsoSxI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fandrewmonaghan\\QA_Software_Craft\\mod5-UML-main\\mod5-UML-main\\BDD Example Best\\SpecFlowProject1\\SpecFlowProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fandrewmonaghan\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
+    "C:\\Users\\fandrewmonaghan\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",
+    "C:\\Users\\fandrewmonaghan\\.nuget\\packages\\gherkin\\19.0.3\\gherkin.19.0.3.nupkg.sha512",
+    "C:\\Users\\fandrewmonaghan\\.nuget\\packages\\google.protobuf\\3.7.0\\google.protobuf.3.7.0.nupkg.sha512",
+    "C:\\Users\\fandrewmonaghan\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
+    "C:\\Users\\fandrewmonaghan\\.nuget\\packages\\microsoft.net.test.sdk\\17.0.0\\microsoft.net.test.sdk.17.0.0.nupkg.sha512",
+    "C:\\Users\\fandrewmonaghan\\.nuget\\packages\\mstest.testadapter\\2.2.7\\mstest.testadapter.2.2.7.nupkg.sha512",
+    "C:\\Users\\fandrewmonaghan\\.nuget\\packages\\mstest.testframework\\2.2.7\\mstest.testframework.2.2.7.nupkg.sha512",
+    "C:\\Users\\fandrewmonaghan\\.nuget\\packages\\specflow\\3.9.22\\specflow.3.9.22.nupkg.sha512",
+    "C:\\Users\\fandrewmonaghan\\.nuget\\packages\\specflow.internal.json\\1.0.8\\specflow.internal.json.1.0.8.nupkg.sha512",
+    "C:\\Users\\fandrewmonaghan\\.nuget\\packages\\specflow.mstest\\3.9.22\\specflow.mstest.3.9.22.nupkg.sha512",
+    "C:\\Users\\fandrewmonaghan\\.nuget\\packages\\specflow.plus.livingdocplugin\\3.9.57\\specflow.plus.livingdocplugin.3.9.57.nupkg.sha512",
+    "C:\\Users\\fandrewmonaghan\\.nuget\\packages\\specflow.tools.msbuild.generation\\3.9.22\\specflow.tools.msbuild.generation.3.9.22.nupkg.sha512",
+    "C:\\Users\\fandrewmonaghan\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

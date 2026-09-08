@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fandrewmonaghan\\QA_Software_Craft\\mod5-UML-main\\mod5-UML-main\\BDD Example Best\\SpecFlowCalculator\\SpecFlowCalculator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fandrewmonaghan\\QA_Software_Craft\\mod5-UML-main\\mod5-UML-main\\BDD Example Best\\SpecFlowCalculator\\SpecFlowCalculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fandrewmonaghan\\QA_Software_Craft\\mod5-UML-main\\mod5-UML-main\\BDD Example Best\\SpecFlowCalculator\\SpecFlowCalculator.csproj",
+        "projectName": "SpecFlowCalculator",
+        "projectPath": "C:\\Users\\fandrewmonaghan\\QA_Software_Craft\\mod5-UML-main\\mod5-UML-main\\BDD Example Best\\SpecFlowCalculator\\SpecFlowCalculator.csproj",
+        "packagesPath": "C:\\Users\\fandrewmonaghan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fandrewmonaghan\\QA_Software_Craft\\mod5-UML-main\\mod5-UML-main\\BDD Example Best\\SpecFlowCalculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fandrewmonaghan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.9.57, )"
+            },
+            "SpecRun.SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.7, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
