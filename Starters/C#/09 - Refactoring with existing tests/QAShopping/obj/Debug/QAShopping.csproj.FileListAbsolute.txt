@@ -5,3 +5,16 @@ C:\QA\Software Craft - ADXD2SD4M5\Starters\C#\5 - Refactoring with existing test
 C:\QA\Software Craft - ADXD2SD4M5\Starters\C#\5 - Refactoring with existing tests\QAShopping\obj\Debug\QAShopping.csproj.CoreCompileInputs.cache
 C:\QA\Software Craft - ADXD2SD4M5\Starters\C#\5 - Refactoring with existing tests\QAShopping\obj\Debug\QAShopping.exe
 C:\QA\Software Craft - ADXD2SD4M5\Starters\C#\5 - Refactoring with existing tests\QAShopping\obj\Debug\QAShopping.pdb
+c:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\09 - Refactoring with existing tests\QAShopping\obj\Debug\QAShopping.exe
+c:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\09 - Refactoring with existing tests\QAShopping\obj\Debug\QAShopping.pdb
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\09 - Refactoring with existing tests\QAShopping\bin\Debug\QAShopping.exe.config
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\09 - Refactoring with existing tests\QAShopping\bin\Debug\QAShopping.exe
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\09 - Refactoring with existing tests\QAShopping\bin\Debug\QAShopping.pdb
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\09 - Refactoring with existing tests\QAShopping\obj\Debug\QAShopping.csproj.AssemblyReference.cache
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\09 - Refactoring with existing tests\QAShopping\obj\Debug\QAShopping.csproj.CoreCompileInputs.cache
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\09 - Refactoring with existing tests\QAShopping\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\09 - Refactoring with existing tests\QAShopping\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\09 - Refactoring with existing tests\QAShopping\bin\Debug\nunit.engine.dll
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\09 - Refactoring with existing tests\QAShopping\bin\Debug\nunit.engine.api.dll
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\09 - Refactoring with existing tests\QAShopping\bin\Debug\nunit.engine.core.dll
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\09 - Refactoring with existing tests\QAShopping\bin\Debug\testcentric.engine.metadata.dll

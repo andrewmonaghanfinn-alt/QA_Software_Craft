@@ -31,6 +31,10 @@ namespace QAShopping
             myBasket.Add(item4);
             Console.WriteLine(Basket.PrintBasket(myBasket));
             Console.WriteLine();
+
+            Console.ReadLine();
+
+
         }
     }
 }

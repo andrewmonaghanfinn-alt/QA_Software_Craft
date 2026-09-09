@@ -12,3 +12,20 @@ C:\QA\Software Craft - ADXD2SD4M5\2025 new course\Starters\TestingPatterns\Testi
 C:\QA\Software Craft - ADXD2SD4M5\2025 new course\Starters\TestingPatterns\TestingPatterns\bin\Debug\netcoreapp2.1\TestingPatterns.pdb
 C:\QA\Software Craft - ADXD2SD4M5\2025 new course\Starters\TestingPatterns\TestingPatterns\obj\Debug\netcoreapp2.1\TestingPatterns.dll
 C:\QA\Software Craft - ADXD2SD4M5\2025 new course\Starters\TestingPatterns\TestingPatterns\obj\Debug\netcoreapp2.1\TestingPatterns.pdb
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.3 - Test Test Patterns\TestingPatterns\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.3 - Test Test Patterns\TestingPatterns\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.3 - Test Test Patterns\TestingPatterns\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.3 - Test Test Patterns\TestingPatterns\bin\Debug\netcoreapp2.1\TestingPatterns.deps.json
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.3 - Test Test Patterns\TestingPatterns\bin\Debug\netcoreapp2.1\TestingPatterns.runtimeconfig.json
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.3 - Test Test Patterns\TestingPatterns\bin\Debug\netcoreapp2.1\TestingPatterns.runtimeconfig.dev.json
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.3 - Test Test Patterns\TestingPatterns\bin\Debug\netcoreapp2.1\TestingPatterns.dll
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.3 - Test Test Patterns\TestingPatterns\bin\Debug\netcoreapp2.1\TestingPatterns.pdb
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.3 - Test Test Patterns\TestingPatterns\obj\Debug\netcoreapp2.1\TestingPatterns.csproj.AssemblyReference.cache
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.3 - Test Test Patterns\TestingPatterns\obj\Debug\netcoreapp2.1\TestingPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.3 - Test Test Patterns\TestingPatterns\obj\Debug\netcoreapp2.1\TestingPatterns.AssemblyInfoInputs.cache
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.3 - Test Test Patterns\TestingPatterns\obj\Debug\netcoreapp2.1\TestingPatterns.AssemblyInfo.cs
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.3 - Test Test Patterns\TestingPatterns\obj\Debug\netcoreapp2.1\TestingPatterns.csproj.CoreCompileInputs.cache
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.3 - Test Test Patterns\TestingPatterns\obj\Debug\netcoreapp2.1\TestingPatterns.sourcelink.json
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.3 - Test Test Patterns\TestingPatterns\obj\Debug\netcoreapp2.1\TestingPatterns.dll
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.3 - Test Test Patterns\TestingPatterns\obj\Debug\netcoreapp2.1\TestingPatterns.pdb
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.3 - Test Test Patterns\TestingPatterns\obj\Debug\netcoreapp2.1\TestingPatterns.genruntimeconfig.cache

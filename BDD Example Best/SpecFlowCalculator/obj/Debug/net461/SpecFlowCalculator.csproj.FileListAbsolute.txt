@@ -267,3 +267,13 @@ C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowCalculator\obj\Debug\
 C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowCalculator\obj\Debug\net461\SpecFlowCalculator.csproj.CopyComplete
 C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowCalculator\obj\Debug\net461\SpecFlowCalculator.dll
 C:\QA\Software Craft - ADXD2SD4M5\BDD Example Best\SpecFlowCalculator\obj\Debug\net461\SpecFlowCalculator.pdb
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\BDD Example Best\SpecFlowCalculator\obj\Debug\net461\SpecFlowCalculator.csproj.AssemblyReference.cache
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\BDD Example Best\SpecFlowCalculator\obj\Debug\net461\SpecFlowCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\BDD Example Best\SpecFlowCalculator\obj\Debug\net461\SpecFlowCalculator.dll.config
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\BDD Example Best\SpecFlowCalculator\obj\Debug\net461\SpecFlowCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\BDD Example Best\SpecFlowCalculator\obj\Debug\net461\SpecFlowCalculator.AssemblyInfoInputs.cache
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\BDD Example Best\SpecFlowCalculator\obj\Debug\net461\SpecFlowCalculator.AssemblyInfo.cs
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\BDD Example Best\SpecFlowCalculator\obj\Debug\net461\SpecFlowCalculator.csproj.CoreCompileInputs.cache
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\BDD Example Best\SpecFlowCalculator\obj\Debug\net461\SpecFlowCalculator.sourcelink.json
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\BDD Example Best\SpecFlowCalculator\obj\Debug\net461\SpecFlowCalculator.dll
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\BDD Example Best\SpecFlowCalculator\obj\Debug\net461\SpecFlowCalculator.pdb

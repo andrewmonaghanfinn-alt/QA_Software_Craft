@@ -4,3 +4,5 @@ C:\QA\2026 QA courses\2025 M5\Starters\C#\4.1 - Unit testing\QACalculator\obj\De
 C:\QA\2026 QA courses\2025 M5\Starters\C#\4.1 - Unit testing\QACalculator\obj\Debug\QACalculator.csproj.CoreCompileInputs.cache
 C:\QA\2026 QA courses\2025 M5\Starters\C#\4.1 - Unit testing\QACalculator\obj\Debug\QACalculator.dll
 C:\QA\2026 QA courses\2025 M5\Starters\C#\4.1 - Unit testing\QACalculator\obj\Debug\QACalculator.pdb
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.1 - Unit testing\QACalculator\obj\Debug\QACalculator.dll
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\Starters\C#\4.1 - Unit testing\QACalculator\obj\Debug\QACalculator.pdb

@@ -50,3 +50,11 @@ C:\QA\2026 QA courses\2025 M5\BDD Example Best\SpecFlowProjectDemo\obj\Debug\net
 C:\QA\2026 QA courses\2025 M5\BDD Example Best\SpecFlowProjectDemo\obj\Debug\net48\SpecFlowProjectDemo.csproj.CopyComplete
 C:\QA\2026 QA courses\2025 M5\BDD Example Best\SpecFlowProjectDemo\obj\Debug\net48\SpecFlowProjectDemo.dll
 C:\QA\2026 QA courses\2025 M5\BDD Example Best\SpecFlowProjectDemo\obj\Debug\net48\SpecFlowProjectDemo.pdb
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\BDD Example Best\SpecFlowProjectDemo\obj\Debug\net48\SpecFlowProjectDemo.csproj.AssemblyReference.cache
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\BDD Example Best\SpecFlowProjectDemo\obj\Debug\net48\SpecFlowProjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\BDD Example Best\SpecFlowProjectDemo\obj\Debug\net48\SpecFlowProjectDemo.AssemblyInfoInputs.cache
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\BDD Example Best\SpecFlowProjectDemo\obj\Debug\net48\SpecFlowProjectDemo.AssemblyInfo.cs
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\BDD Example Best\SpecFlowProjectDemo\obj\Debug\net48\SpecFlowProjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\BDD Example Best\SpecFlowProjectDemo\obj\Debug\net48\SpecFlowProjectDemo.sourcelink.json
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\BDD Example Best\SpecFlowProjectDemo\obj\Debug\net48\SpecFlowProjectDemo.dll
+C:\Users\fandrewmonaghan\QA_Software_Craft\mod5-UML-main\mod5-UML-main\BDD Example Best\SpecFlowProjectDemo\obj\Debug\net48\SpecFlowProjectDemo.pdb
