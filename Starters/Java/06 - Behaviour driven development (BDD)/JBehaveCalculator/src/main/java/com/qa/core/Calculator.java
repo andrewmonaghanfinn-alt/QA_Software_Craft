@@ -7,6 +7,14 @@ public class Calculator {
         result = x + y;
     }
 
+    public void subtractTwoNumber(int x, int y) {
+        result = y - x;
+    }
+
+    public void multiplyTwoNumber(int x, int y) {
+        result = x * y;
+    }
+ 
     public int getresult() {
         return result;
     }

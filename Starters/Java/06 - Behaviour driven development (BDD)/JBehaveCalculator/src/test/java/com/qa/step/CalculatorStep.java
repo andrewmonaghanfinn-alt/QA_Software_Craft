@@ -20,6 +20,17 @@ public class CalculatorStep {
     public void AddCal(int x, int y) {
         myCal.addTwoNumber(x, y);
     }
+ 
+    @When("I subtract $number2 from $number1")
+    public void SubtractCal(int x, int y) {
+        myCal.subtractTwoNumber(x, y);
+    }
+
+    @When("I multiply $number1 by $number2")
+    public void MultiplyCal(int x, int y) {
+        myCal.multiplyTwoNumber(x, y);
+    }
+        
 
     @Then("the outcome should be $result")
     public void testResult(int output) {
